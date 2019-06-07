@@ -1,6 +1,7 @@
 from enum import IntFlag
-from structure import DataBlock, NumberField, ByteOrder, EEnum, ArrayField, BytesField, StringField, IfField, CaseField
 import datetime
+
+from ..structure import *
 
 
 # https://en.wikibooks.org/wiki/X86_Disassembly/Windows_Executable_Files

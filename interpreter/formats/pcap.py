@@ -1,7 +1,7 @@
 import datetime
 
-from formats.net import EthernetFormat
-from structure import *
+from ..formats.net import EthernetFormat
+from ..structure import *
 
 
 # https://www.tcpdump.org/manpages/pcap-savefile.5.html

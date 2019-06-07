@@ -1,7 +1,7 @@
 import importlib.util
 import os
 import inspect
-from structure import Element
+from .structure import Element
 
 all_modules = []
 
